@@ -1,0 +1,26 @@
+body{
+	font-family: 'Mulish', sans-serif;
+}
+li{
+	list-style: none;
+}
+.btn{
+	border: 2px solid;
+}
+a{
+	text-decoration: none
+}
+.card-title{
+	color: #000;
+}
+.card{
+	margin: 5px;
+	border: 2px solid rgba(0,0,0,.125);
+}
+.card-body p{
+	font-size: 1.2em;
+}
+
+header .nav-item a:hover{
+	text-decoration: underline;
+}
